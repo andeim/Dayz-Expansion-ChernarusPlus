@@ -20,4 +20,5 @@ The following mods are used in this setup:
 - **DayZ-Expansion-Licensed**
 - **MMG-MightysMilitaryGear**
 - **PvZmoD_CustomizableZombies**
+- **MoreWolves**
 - **_DayZ-Dynamic-AI-Addon** (server-side)

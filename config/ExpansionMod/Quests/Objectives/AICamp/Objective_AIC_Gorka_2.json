@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 18,
+    "ConfigVersion": 22,
     "ID": 2,
     "ObjectiveType": 8,
     "ObjectiveText": "Kill all 5 police imposters at the marked location",
@@ -22,9 +22,9 @@
                 8893.0
             ],
             [
-                9539.8,
+                9539.7998046875,
                 305.0,
-                8868.4
+                8868.400390625
             ],
             [
                 9518.0,
@@ -35,9 +35,8 @@
         "NPCSpeed": "RUN",
         "NPCMode": "HALT",
         "NPCFaction": "Shamans",
-        "NPCFormation": "RANDOM",
         "NPCLoadoutFile": "PoliceLoadout",
-        "NPCAccuracyMin": 0.4,
+        "NPCAccuracyMin": 0.4000000059604645,
         "NPCAccuracyMax": 0.75,
         "ClassNames": [
             "eAIBase"
@@ -48,5 +47,6 @@
     "MinDistRadius": 50.0,
     "MaxDistRadius": 275.0,
     "DespawnRadius": 880.0,
-    "CanLootAI": 1
+    "CanLootAI": 1,
+    "InfectedDeletionRadius": 0
 }

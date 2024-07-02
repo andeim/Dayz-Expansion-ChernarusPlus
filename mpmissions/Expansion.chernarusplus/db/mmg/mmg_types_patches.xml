@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<!--PATCHES RUBBER-->
-
+<?xml version='1.0' encoding='UTF-8'?>
 <types>
     <type name="MMG_patch_rubber_dayz">
         <nominal>1</nominal>
@@ -11,11 +8,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_511">
         <nominal>1</nominal>
@@ -25,11 +22,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_medic">
         <nominal>1</nominal>
@@ -39,11 +36,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_toxic">
         <nominal>1</nominal>
@@ -53,11 +50,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_bushcraft">
         <nominal>1</nominal>
@@ -67,11 +64,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_bushcraft1">
         <nominal>1</nominal>
@@ -81,11 +78,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_police">
         <nominal>1</nominal>
@@ -95,11 +92,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_punisher">
         <nominal>1</nominal>
@@ -109,11 +106,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_rangers">
         <nominal>1</nominal>
@@ -123,11 +120,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_eod">
         <nominal>1</nominal>
@@ -137,11 +134,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_mmg">
         <nominal>1</nominal>
@@ -151,11 +148,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_sniper1">
         <nominal>1</nominal>
@@ -165,11 +162,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_cherno_special">
         <nominal>1</nominal>
@@ -179,11 +176,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_livonia_special">
         <nominal>1</nominal>
@@ -193,11 +190,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_australia">
         <nominal>1</nominal>
@@ -207,11 +204,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_austria">
         <nominal>1</nominal>
@@ -221,11 +218,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_austria1">
         <nominal>1</nominal>
@@ -235,11 +232,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_germany">
         <nominal>1</nominal>
@@ -249,11 +246,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_sweden">
         <nominal>1</nominal>
@@ -263,11 +260,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_norway">
         <nominal>1</nominal>
@@ -277,11 +274,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_ukraine">
         <nominal>1</nominal>
@@ -291,11 +288,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_bulgaria">
         <nominal>1</nominal>
@@ -305,11 +302,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_switzerland">
         <nominal>1</nominal>
@@ -319,11 +316,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_czech_republic">
         <nominal>1</nominal>
@@ -333,11 +330,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_denmark">
         <nominal>1</nominal>
@@ -347,11 +344,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_england">
         <nominal>1</nominal>
@@ -361,11 +358,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_finland">
         <nominal>1</nominal>
@@ -375,11 +372,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_france">
         <nominal>1</nominal>
@@ -389,11 +386,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_greece">
         <nominal>1</nominal>
@@ -403,11 +400,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_netherlands">
         <nominal>1</nominal>
@@ -417,11 +414,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_poland">
         <nominal>1</nominal>
@@ -431,11 +428,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_south_africa">
         <nominal>1</nominal>
@@ -445,11 +442,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_slovakia">
         <nominal>1</nominal>
@@ -459,11 +456,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_uk">
         <nominal>1</nominal>
@@ -473,11 +470,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="EXAMPLE">
         <nominal>1</nominal>
@@ -487,11 +484,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_usa">
         <nominal>1</nominal>
@@ -501,11 +498,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_bra">
         <nominal>1</nominal>
@@ -515,11 +512,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_can">
         <nominal>1</nominal>
@@ -529,11 +526,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_chl">
         <nominal>1</nominal>
@@ -543,11 +540,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_cro">
         <nominal>1</nominal>
@@ -557,11 +554,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_irl">
         <nominal>1</nominal>
@@ -571,11 +568,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_nzl">
         <nominal>1</nominal>
@@ -585,11 +582,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_rou">
         <nominal>1</nominal>
@@ -599,11 +596,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_tur">
         <nominal>1</nominal>
@@ -613,11 +610,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_mex">
         <nominal>1</nominal>
@@ -627,11 +624,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_por">
         <nominal>1</nominal>
@@ -641,11 +638,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_wales">
         <nominal>1</nominal>
@@ -655,11 +652,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_apos">
         <nominal>1</nominal>
@@ -669,11 +666,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_bpos">
         <nominal>1</nominal>
@@ -683,11 +680,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_abpos">
         <nominal>1</nominal>
@@ -697,11 +694,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_0pos">
         <nominal>1</nominal>
@@ -711,11 +708,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_aneg">
         <nominal>1</nominal>
@@ -725,11 +722,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_bneg">
         <nominal>1</nominal>
@@ -739,11 +736,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_abneg">
         <nominal>1</nominal>
@@ -753,11 +750,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_rubber_0neg">
         <nominal>1</nominal>
@@ -767,14 +764,14 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	
-	<!--PATCHES FABRIC-->
+	
 	<type name="MMG_patch_fabric_dayz">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
@@ -783,11 +780,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="EXAMPLE">
         <nominal>1</nominal>
@@ -797,11 +794,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_fabric_511">
         <nominal>1</nominal>
@@ -811,11 +808,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_fabric_driver">
         <nominal>1</nominal>
@@ -825,11 +822,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_fabric_medic">
         <nominal>1</nominal>
@@ -839,11 +836,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_fabric_pilot">
         <nominal>1</nominal>
@@ -853,11 +850,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 	<type name="MMG_patch_fabric_toxic">
         <nominal>1</nominal>
@@ -867,10 +864,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="Military" />
+		<value name="Tier2" />
+        <value name="Tier3" />
     </type>
 </types>

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 18,
+    "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 2,
     "ObjectiveText": "Kill 10 Infected with a sledgehammer",
@@ -85,6 +85,7 @@
             "SledgeHammer"
         ],
         "ExcludedClassNames": [],
-        "CountAIPlayers": 0
+        "CountAIPlayers": 0,
+        "AllowedTargetFactions": []
     }
 }

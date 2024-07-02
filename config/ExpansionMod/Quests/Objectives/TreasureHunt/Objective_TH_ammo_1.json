@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 18,
+    "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the location of the treasure",
@@ -30,44 +30,49 @@
         {
             "Name": "AmmoBox_9x19_25rnd",
             "Attachments": [],
-            "Chance": 0.30,
+            "Chance": 0.30000001192092898,
             "QuantityPercent": -1,
-            "Variants": [],
-            "Max": -1
-          },
-          {
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
             "Name": "AmmoBox_308WinTracer_20Rnd",
             "Attachments": [],
-            "Chance": 0.30,
+            "Chance": 0.30000001192092898,
             "QuantityPercent": -1,
-            "Variants": [],
-            "Max": -1
-          },
-          {
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
             "Name": "AmmoBox_45ACP_25rnd",
             "Attachments": [],
-            "Chance": 0.30,
+            "Chance": 0.30000001192092898,
             "QuantityPercent": -1,
-            "Variants": [],
-            "Max": -1
-          },
-          {
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
             "Name": "AmmoBox_556x45_20Rnd",
             "Attachments": [],
-            "Chance": 0.30,
+            "Chance": 0.30000001192092898,
             "QuantityPercent": -1,
-            "Variants": [],
-            "Max": -1
-          },
-          {
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
             "Name": "AmmoBox_762x39_20Rnd",
             "Attachments": [],
             "Chance": 0.5,
             "QuantityPercent": -1,
-            "Variants": [],
-            "Max": -1
-          }
-],
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
     "LootItemsAmount": 7,
     "MaxDistance": 10.0
 }

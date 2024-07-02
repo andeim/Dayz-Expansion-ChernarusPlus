@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 18,
+    "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 9,
     "ObjectiveText": "Bring the VIP to the marked location.",
@@ -11,8 +11,10 @@
     ],
     "MaxDistance": 20.0,
     "AIVIP": {
-        "NPCLoadoutFile": "BanditLoadout"
+        "NPCLoadoutFile": "BanditLoadout",
+        "NPCClassName": ""
     },
     "MarkerName": "Escort VIP",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "CanLootAI": 0
 }
