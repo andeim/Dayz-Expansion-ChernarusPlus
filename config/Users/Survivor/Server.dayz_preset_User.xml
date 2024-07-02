@@ -69,6 +69,11 @@
     <input name="UALeanRightGamepad">
         <btn name="x1ShoulderRight" />
     </input>
+    <input name="UAPersonCamSwitchSide">
+        <btn name="x1ThumbRight">
+            <event name="holdbegin" />
+        </btn>
+    </input>
     <input name="UAAimLeft">
         <btn name="mLeft" />
         <btn name="x1RightThumbLeft" />
@@ -133,8 +138,12 @@
         <btn name="x1Y" />
     </input>
     <input name="UAADSToggle">
-        <btn name="kLShift" />
-        <btn name="x1ThumbRight" />
+        <btn name="kLShift">
+            <event name="click" />
+        </btn>
+        <btn name="x1ThumbRight">
+            <event name="click" />
+        </btn>
     </input>
     <input name="UAZoomInOptics">
         <btn name="mWheelUp" />
@@ -184,6 +193,9 @@
     </input>
     <input name="UAHeavyMeleeAttack">
         <btn name="x1Y" />
+    </input>
+    <input name="UAMeleeAttackModifier">
+        <btn name="kLShift" />
     </input>
     <input name="UAWeaponMeleeAttack">
         <btn name="kF" />
@@ -910,9 +922,16 @@
     <input name="UACameraToolSpeedDecrease">
         <btn name="mWheelDown" />
     </input>
+    <input name="UAObjectModuleDeleteOnCursor">
+        <btn name="kDelete" />
+    </input>
     <input name="UAObjectModuleSpawnInfected" />
     <input name="UAObjectModuleSpawnAnimal" />
     <input name="UAObjectModuleSpawnWolf" />
+    <input name="UAPlayerModuleHeal" />
+    <input name="UAPlayerModuleGodMode">
+        <btn name="kU" />
+    </input>
     <input name="UACOTToggleButtons">
         <btn name="kY" />
     </input>
@@ -1152,6 +1171,11 @@
     </input>
     <input name="eAICommandMenu">
         <btn name="kT" />
+    </input>
+    <input name="eAISetWaypoint">
+        <btn name="kLControl">
+            <btn name="mBLeft" />
+        </btn>
     </input>
     <input name="eAITestInput">
         <btn name="kY" />

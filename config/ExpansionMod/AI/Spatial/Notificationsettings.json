@@ -1,8 +1,11 @@
 {
-    "Version": 1,
+    "Version": 2,
     "notification": [
         {
             "Spatial_Name": "East",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
             "MessageType": 1,
             "MessageTitle": "East AI",
             "MessageText": [
@@ -13,6 +16,9 @@
         },
         {
             "Spatial_Name": "West",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
             "MessageType": 3,
             "MessageTitle": "West AI",
             "MessageText": [
@@ -22,6 +28,9 @@
         },
         {
             "Spatial_Name": "Civilian",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
             "MessageType": 5,
             "MessageTitle": "Civilian AI",
             "MessageText": [
@@ -31,6 +40,9 @@
         },
         {
             "Spatial_Name": "Name",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
             "MessageType": 0,
             "MessageTitle": "Disabled",
             "MessageText": [

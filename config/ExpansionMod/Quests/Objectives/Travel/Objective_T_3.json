@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 27,
     "ID": 3,
     "ObjectiveType": 3,
     "ObjectiveText": "Get to the Camp",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
         3706.27001953125,
         402.0119934082031,
