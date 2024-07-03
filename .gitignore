@@ -4,6 +4,9 @@
 *.ADM
 *.log
 *.dll
+*.bisign
+*.pbo
+*.bin
 /battlefield
 /bliss
 /dta
