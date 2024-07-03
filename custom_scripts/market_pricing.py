@@ -1,40 +1,27 @@
-"""
-Market Price Adjustment Script
-
-Adjusts market prices in JSON files based on nominal values from an XML file.
-
-Usage:
-1. Configure paths and parameters:
-   - input_directory: Directory with JSON market files.
-   - output_directory: Directory for analysis mode output.
-   - types_xml_path: Path to the XML file with nominal values.
-   - base_price_multiplier: Multiplier for base prices.
-   - min_stock_threshold: Minimum stock threshold for items.
-   - default_multiplier: Multiplier for items without a nominal value.
-   - analysis_mode: True for analysis mode (output to output_directory), False for production (overwrite input files).
-
-Functions:
-
-load_nominal_values(types_xml_path): Loads nominal values from the XML file.
-calculate_price_multiplier(nominal_value, max_nominal=130, min_nominal=1): Calculates price multiplier.
-round_to_nearest_10(value): Rounds value to the nearest 10.
-update_market_prices(input_directory, output_directory, types_xml_path, base_price_multiplier, min_stock_threshold, default_multiplier, analysis_mode): Main function to adjust prices and save changes.
-Ensure paths and parameters are set correctly before running the script.
-"""
-
 import json
 import os
 import xml.etree.ElementTree as ET
 
-def load_nominal_values(types_xml_path):
-    tree = ET.parse(types_xml_path)
-    root = tree.getroot()
+def load_nominal_values(types_xml_path, additional_types_dir):
     nominal_values = {}
-    for item in root.findall('.//type'):
-        class_name = item.get('name').lower()  # Convert to lowercase
-        nominal = item.find('nominal')
-        if nominal is not None:
-            nominal_values[class_name] = int(nominal.text)
+
+    def parse_xml(file_path):
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+        for item in root.findall('.//type'):
+            class_name = item.get('name').lower()  # Convert to lowercase
+            nominal = item.find('nominal')
+            if nominal is not None:
+                nominal_values[class_name] = int(nominal.text)
+
+    # Load the main types.xml file
+    parse_xml(types_xml_path)
+
+    # Load additional types XML files
+    for filename in os.listdir(additional_types_dir):
+        if "types" in filename and filename.endswith('.xml'):
+            parse_xml(os.path.join(additional_types_dir, filename))
+
     return nominal_values
 
 def calculate_price_multiplier(nominal_value, max_nominal=130, min_nominal=1):
@@ -44,8 +31,8 @@ def calculate_price_multiplier(nominal_value, max_nominal=130, min_nominal=1):
 def round_to_nearest_10(value):
     return round(value / 10) * 10
 
-def update_market_prices(input_directory, output_directory, types_xml_path, base_price_multiplier, min_stock_threshold, default_multiplier, analysis_mode):
-    nominal_values = load_nominal_values(types_xml_path)
+def update_market_prices(input_directory, output_directory, types_xml_path, additional_types_dir, base_price_multiplier, min_stock_threshold, default_multiplier, analysis_mode):
+    nominal_values = load_nominal_values(types_xml_path, additional_types_dir)
     
     if analysis_mode:
         os.makedirs(output_directory, exist_ok=True)
@@ -81,11 +68,12 @@ def update_market_prices(input_directory, output_directory, types_xml_path, base
 input_directory = './config/ExpansionMod/Market'
 output_directory = './config/ExpansionMod/Market_Analysis'
 types_xml_path = './mpmissions/Expansion.chernarusplus/db/types.xml'
+additional_types_dir = './mpmissions/Expansion.chernarusplus/db/mmg'
 base_price_multiplier = 1.75
 min_stock_threshold = 1
 default_multiplier = 1.5
 analysis_mode = True  # Set to False for production changes
 
-update_market_prices(input_directory, output_directory, types_xml_path, base_price_multiplier, min_stock_threshold, default_multiplier, analysis_mode)
+update_market_prices(input_directory, output_directory, types_xml_path, additional_types_dir, base_price_multiplier, min_stock_threshold, default_multiplier, analysis_mode)
 
 print(f"Process completed. Output written to: {'analysis directory' if analysis_mode else 'original files'}")
