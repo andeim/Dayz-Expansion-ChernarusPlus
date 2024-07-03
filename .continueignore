@@ -4,6 +4,12 @@
 *.ADM
 *.log
 *.dll
+*.map
+*.dze
+*.so
+*.bin
+*.bisign
+*.pbo
 /battlefield
 /bliss
 /dta
