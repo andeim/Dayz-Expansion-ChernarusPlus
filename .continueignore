@@ -10,6 +10,7 @@
 *.bin
 *.bisign
 *.pbo
+*.vdf
 /battlefield
 /bliss
 /dta
