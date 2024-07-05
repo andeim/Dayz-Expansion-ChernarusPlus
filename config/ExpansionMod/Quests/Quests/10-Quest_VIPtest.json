@@ -21,7 +21,7 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 5000,
+            "Amount": 1000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
