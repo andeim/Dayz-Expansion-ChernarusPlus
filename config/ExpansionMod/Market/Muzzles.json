@@ -60,6 +60,39 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Rev_M200_Suppressor",
+            "MaxPriceThreshold": 2950,
+            "MinPriceThreshold": 2350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Rev_R700_Suppressor",
+            "MaxPriceThreshold": 2950,
+            "MinPriceThreshold": 2350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JebsGuns_KrissVector_Suppressor",
+            "MaxPriceThreshold": 2950,
+            "MinPriceThreshold": 2350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

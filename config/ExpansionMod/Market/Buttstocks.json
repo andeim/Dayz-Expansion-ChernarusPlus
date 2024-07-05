@@ -162,6 +162,28 @@
                 "ghillieatt_woodland",
                 "ghillieatt_mossy"
             ]
+        },
+        {
+            "ClassName": "Rev_Tac21_Bttstck",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Rev_AK_Bttstck",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
