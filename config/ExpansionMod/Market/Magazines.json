@@ -625,7 +625,7 @@
         {
             "ClassName": "Rev_Mag_WA2000_5rnd",
             "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1200.0,
+            "MinPriceThreshold": 1200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -636,7 +636,7 @@
         {
             "ClassName": "Rev_Mag_Tac21_5rnd",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -647,7 +647,7 @@
         {
             "ClassName": "Rev_Mag_HoneyBadger_30rnd",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -658,7 +658,7 @@
         {
             "ClassName": "Rev_Mag_HoneyBadger_50rnd",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -669,7 +669,7 @@
         {
             "ClassName": "Rev_Mag_HoneyBadger_100rnd",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -680,7 +680,7 @@
         {
             "ClassName": "Rev_Mag_M200_7rnd",
             "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 2400.0,
+            "MinPriceThreshold": 2400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -691,7 +691,7 @@
         {
             "ClassName": "Rev_Mag_R700_7rnd",
             "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 4000.0,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -702,7 +702,7 @@
         {
             "ClassName": "Rev_Mag_Beowulf_10rnd",
             "MaxPriceThreshold": 7500,
-            "MinPriceThreshold": 6000.0,
+            "MinPriceThreshold": 6000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -713,7 +713,7 @@
         {
             "ClassName": "Rev_Mag_SRSA2_10rnd",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -724,7 +724,7 @@
         {
             "ClassName": "Rev_Mag_SR25_10rnd",
             "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 2400.0,
+            "MinPriceThreshold": 2400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -735,7 +735,7 @@
         {
             "ClassName": "Rev_Mag_SR25_20rnd",
             "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 4000.0,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -746,7 +746,7 @@
         {
             "ClassName": "Rev_Mag_MG3_75rnd",
             "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 4000.0,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -757,7 +757,7 @@
         {
             "ClassName": "Rev_Mag_HT76_30Rnd",
             "MaxPriceThreshold": 7500,
-            "MinPriceThreshold": 6000.0,
+            "MinPriceThreshold": 6000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -768,7 +768,7 @@
         {
             "ClassName": "Rev_Mag_HK417_20rnd",
             "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 4000.0,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -812,7 +812,7 @@
         {
             "ClassName": "Rev_Mag_M96_5rnd",
             "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 4000.0,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -878,7 +878,7 @@
         {
             "ClassName": "Rev_Mag_AK12_30rnd",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -889,7 +889,7 @@
         {
             "ClassName": "Rev_Mag_AK19_30rnd",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -900,7 +900,7 @@
         {
             "ClassName": "Rev_Mag_RPK16_75rnd_762",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -911,7 +911,7 @@
         {
             "ClassName": "Rev_Mag_RPK16_96rnd",
             "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 2400.0,
+            "MinPriceThreshold": 2400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -922,7 +922,7 @@
         {
             "ClassName": "Rev_Mag_RPK16_96rnd_556",
             "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 4000.0,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -933,7 +933,7 @@
         {
             "ClassName": "Rev_Mag_ACR_30rnd",
             "MaxPriceThreshold": 7500,
-            "MinPriceThreshold": 6000.0,
+            "MinPriceThreshold": 6000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -944,7 +944,7 @@
         {
             "ClassName": "Rev_Mag_M110_10rnd",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -955,7 +955,7 @@
         {
             "ClassName": "Rev_Mag_M110_20rnd",
             "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 2400.0,
+            "MinPriceThreshold": 2400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -966,7 +966,7 @@
         {
             "ClassName": "Rev_Mag_M134_250rnd",
             "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 4000.0,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -977,7 +977,7 @@
         {
             "ClassName": "Rev_Mag_ACR17_30rnd",
             "MaxPriceThreshold": 7500,
-            "MinPriceThreshold": 6000.0,
+            "MinPriceThreshold": 6000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -987,8 +987,8 @@
         },
         {
             "ClassName": "JebsGuns_Mag_M1A_20rnd_45_70",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 75,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 750,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -999,7 +999,7 @@
         {
             "ClassName": "Rev_Mag_ARX160_30rnd",
             "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1600.0,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

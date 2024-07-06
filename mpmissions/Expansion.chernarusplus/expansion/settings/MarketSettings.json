@@ -4,12 +4,12 @@
     "NetworkCategories": [],
     "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
     "ATMSystemEnabled": 1,
-    "MaxDepositMoney": 300000,
+    "MaxDepositMoney": 500000,
     "DefaultDepositMoney": 500,
     "ATMPlayerTransferEnabled": 1,
     "ATMPartyLockerEnabled": 1,
-    "MaxPartyDepositMoney": 100000,
-    "UseWholeMapForATMPlayerList": 0,
+    "MaxPartyDepositMoney": 1000000,
+    "UseWholeMapForATMPlayerList": 1,
     "SellPricePercent": 50.0,
     "NetworkBatchSize": 100,
     "MaxVehicleDistanceToTrader": 120.0,
@@ -266,7 +266,7 @@
         "ColorCategoryBackground": "222526FF"
     },
     "Currencies": [
-        "expansionbanknotehryvnia"
+        "ExpansionBanknoteHryvnia"
     ],
     "VehicleKeys": [
         "ExpansionCarKey"
