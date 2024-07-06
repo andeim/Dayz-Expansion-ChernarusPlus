@@ -4,7 +4,7 @@
     "ObjectiveType": 9,
     "ObjectiveText": "Take the Survivor home to rest.",
     "TimeLimit": -1,
-    "Active": 0,
+    "Active": 1,
     "Position": [
         4729.64990234375,
         271.835205078125,

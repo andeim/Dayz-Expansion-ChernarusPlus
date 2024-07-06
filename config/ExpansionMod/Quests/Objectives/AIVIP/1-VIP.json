@@ -4,7 +4,7 @@
     "ObjectiveType": 9,
     "ObjectiveText": "Bring the VIP to the marked location.",
     "TimeLimit": -1,
-    "Active": 0,
+    "Active": 1,
     "Position": [
         3193.590087890625,
         296.7070007324219,

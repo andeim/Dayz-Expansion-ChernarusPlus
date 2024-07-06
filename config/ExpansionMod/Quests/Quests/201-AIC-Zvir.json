@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 22,
-    "ID": 200,
+    "ID": 201,
     "Type": 1,
-    "Title": "Clear Cannibal Camp",
+    "Title": "Clear out Zvir",
     "Descriptions": [
-        "Can you believe it? One of our hunting parties found a camp of Cannibals... We are willing to pay if you can deal with them",
-        "Eleminate all of the Cannibals at the camp.",
+        "A bunch of hooligans are hanging out at the water spigot in Zvir, we need to take them out.",
+        "Clean up Zvir",
         "Nice work! Hopefully thats the last of those fuckers, here is your payment."
     ],
-    "ObjectiveText": "Kill all Cannibals at the marked location.",
+    "ObjectiveText": "Kill all thugs and bandits at the marked location.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -44,12 +44,12 @@
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 1,
+            "ID": 6,
             "ObjectiveType": 3
         },
         {
             "ConfigVersion": 27,
-            "ID": 1,
+            "ID": 3,
             "ObjectiveType": 8
         }
     ],

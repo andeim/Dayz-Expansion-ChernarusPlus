@@ -1,53 +1,53 @@
 {
     "ConfigVersion": 27,
-    "ID": 2,
+    "ID": 1,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all 5 police imposters at the marked location",
+    "ObjectiveText": "Kill all 4 units of the bandit patrol at the marked location",
     "TimeLimit": -1,
-    "Active": 0,
+    "Active": 1,
     "AISpawn": {
-        "NumberOfAI": 5,
+        "NumberOfAI": 4,
         "NPCName": "Quest Target",
         "Waypoints": [
             [
-                9523.0,
-                310.0,
-                8941.0
+                6914.7001953125,
+                403.0270080566406,
+                11381.7001953125
             ],
             [
-                9550.0,
-                309.0,
-                8924.0
+                6931.27001953125,
+                399.8599853515625,
+                11456.7001953125
             ],
             [
-                9550.0,
-                305.0,
-                8893.0
+                6891.919921875,
+                397.4549865722656,
+                11496.099609375
             ],
             [
-                9539.7998046875,
-                305.0,
-                8868.400390625
+                6850.8798828125,
+                399.1470031738281,
+                11468.099609375
             ],
             [
-                9518.0,
-                303.0,
-                8802.0
+                6883.97998046875,
+                403.1919860839844,
+                11380.7998046875
             ]
         ],
         "Behaviour": 0,
         "Formation": "RANDOM",
-        "Loadout": "PoliceLoadout",
+        "Loadout": "BanditLoadout",
         "Faction": "West",
         "Speed": 1.0,
         "ThreatSpeed": 3.0,
-        "MinAccuracy": 0.4000000059604645,
-        "MaxAccuracy": 0.75,
+        "MinAccuracy": 0.4,
+        "MaxAccuracy": 0.7,
         "CanBeLooted": 1,
         "UnlimitedReload": 1,
-        "ThreatDistanceLimit": 1000.0,
+        "ThreatDistanceLimit": 200.0,
         "DamageMultiplier": 1.0,
-        "DamageReceivedMultiplier": 1.0,
+        "DamageReceivedMultiplier": 1.2,
         "ClassNames": [
             "eAI_SurvivorF_Eva",
             "eAI_SurvivorF_Frida",
@@ -84,11 +84,11 @@
         "SniperProneDistanceThreshold": 300.0,
         "RespawnTime": 1.0,
         "DespawnTime": 1.0,
-        "MinDistanceRadius": 1.0,
-        "MaxDistanceRadius": 250.0,
+        "MinDistanceRadius": 50.0,
+        "MaxDistanceRadius": 150.0,
         "DespawnRadius": 880.0
     },
-    "MaxDistance": 0.0,
+    "MaxDistance": 300.0,
     "MinDistance": 0.0,
     "AllowedWeapons": [],
     "AllowedDamageZones": []
