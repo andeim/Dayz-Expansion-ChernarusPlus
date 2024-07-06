@@ -6,7 +6,7 @@
         6.900000095367432,
         2429.27001953125
     ],
-    "Radius": 300.0,
+    "Radius": 150.0,
     "BuyPricePercent": 100.0,
     "SellPricePercent": -1.0,
     "Stock": {
@@ -347,7 +347,7 @@
         "smershvest": 75,
         "ak101": 75,
         "radarcap_green": 75,
-        "expansionbanknotehryvnia": 0,
+        "ExpansionBanknoteHryvnia": 0,
         "saiga_bttstck": 75,
         "ump45": 75,
         "rdg2smokegrenade_black": 75,

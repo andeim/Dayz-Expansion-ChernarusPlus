@@ -7,7 +7,7 @@
     "RequiredCompletedQuestID": -1,
     "TraderIcon": "Car",
     "Currencies": [
-        "expansionbanknotehryvnia"
+        "ExpansionBanknoteHryvnia"
     ],
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",

@@ -36,7 +36,7 @@
     "m_EmoteIsStatic": 0,
     "m_IsGlobalTrader": 0,
     "m_Currencies": [
-        "expansionbanknotehryvnia"
+        "ExpansionBanknoteHryvnia"
     ],
     "m_DisplayCurrencyValue": 1,
     "m_DisplayCurrencyName": ""

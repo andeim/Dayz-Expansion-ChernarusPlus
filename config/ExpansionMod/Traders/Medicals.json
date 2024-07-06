@@ -7,7 +7,7 @@
     "RequiredCompletedQuestID": -1,
     "TraderIcon": "Medic Box",
     "Currencies": [
-        "expansionbanknotehryvnia"
+        "ExpansionBanknoteHryvnia"
     ],
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",

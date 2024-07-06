@@ -6,7 +6,7 @@
         140.6999969482422,
         12527.0
     ],
-    "Radius": 1000.0,
+    "Radius": 200.0,
     "BuyPricePercent": 100.0,
     "SellPricePercent": -1.0,
     "Stock": {
@@ -355,7 +355,7 @@
         "smershvest": 75,
         "ak101": 75,
         "radarcap_green": 75,
-        "expansionbanknotehryvnia": 0,
+        "ExpansionBanknoteHryvnia": 0,
         "nylonknifesheath": 75,
         "ump45": 75,
         "rdg2smokegrenade_black": 75,

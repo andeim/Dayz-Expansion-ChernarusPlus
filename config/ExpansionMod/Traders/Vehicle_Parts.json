@@ -7,7 +7,7 @@
     "RequiredCompletedQuestID": -1,
     "TraderIcon": "Gas",
     "Currencies": [
-        "expansionbanknotehryvnia"
+        "ExpansionBanknoteHryvnia"
     ],
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",

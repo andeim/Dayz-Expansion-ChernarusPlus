@@ -7,7 +7,7 @@
     "RequiredCompletedQuestID": -1,
     "TraderIcon": "Nails",
     "Currencies": [
-        "expansionbanknotehryvnia"
+        "ExpansionBanknoteHryvnia"
     ],
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",

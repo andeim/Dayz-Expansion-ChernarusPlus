@@ -318,7 +318,7 @@ Array [String].
 Classnames of the currencies this trader will accept. This currencies will need to be first configured in your Market folder. For more informations please read this guide: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-Custom-Market-Currencies
 
 "Currencies": [
-    "expansionbanknotehryvnia",
+    "ExpansionBanknoteHryvnia",
     "expansionbanknoteeuro"
 ],
 "Categories"
