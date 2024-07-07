@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "chemlight_blue",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -35,8 +35,8 @@
         },
         {
             "ClassName": "matchbox",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -57,8 +57,8 @@
         },
         {
             "ClassName": "petrollighter",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -68,8 +68,8 @@
         },
         {
             "ClassName": "flashlight",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -118,8 +118,8 @@
         },
         {
             "ClassName": "headtorch_black",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 390,
+            "MinPriceThreshold": 290,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -144,8 +144,8 @@
         },
         {
             "ClassName": "universallight",
-            "MaxPriceThreshold": 1010,
-            "MinPriceThreshold": 510,
+            "MaxPriceThreshold": 1510,
+            "MinPriceThreshold": 910,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -156,7 +156,7 @@
         {
             "ClassName": "tlrlight",
             "MaxPriceThreshold": 930,
-            "MinPriceThreshold": 470,
+            "MinPriceThreshold": 670,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

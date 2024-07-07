@@ -251,8 +251,8 @@
         },
         {
             "ClassName": "ammobox_expansion_338_15rnd",
-            "MaxPriceThreshold": 130,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 190,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -262,8 +262,8 @@
         },
         {
             "ClassName": "expansion_ammobox_8mm_15rnd",
-            "MaxPriceThreshold": 130,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 160,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
