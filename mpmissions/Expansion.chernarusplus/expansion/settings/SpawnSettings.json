@@ -105,6 +105,27 @@
             ],
             "UseCooldown": 1
         },
+		        {
+            "Name": "Stary Sobor",
+            "Positions": [
+                [
+                    6530.96,
+                    354.894,
+                    8368.56
+                ],
+                [
+                    6285.73,
+                    334.181,
+                    8092.01
+                ],
+                [
+                    6119.96,
+                    315.706,
+                    7963.4
+                ]
+            ],
+            "UseCooldown": 1
+        },
         {
             "Name": "Kamyshovo",
             "Positions": [
