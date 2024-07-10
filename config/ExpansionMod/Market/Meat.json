@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "bearsteakmeat",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "wolfsteakmeat",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "cowsteakmeat",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 280,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
