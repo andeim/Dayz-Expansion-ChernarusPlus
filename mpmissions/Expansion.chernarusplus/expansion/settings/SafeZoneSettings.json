@@ -57,6 +57,6 @@
     "EnableForceSZCleanup": 1,
     "ItemLifetimeInSafeZone": 900.0,
     "EnableForceSZCleanupVehicles": 0,
-    "VehicleLifetimeInSafeZone": 3600.0,
+    "VehicleLifetimeInSafeZone": 130000.0,
     "ForceSZCleanup_ExcludedItems": []
 }
