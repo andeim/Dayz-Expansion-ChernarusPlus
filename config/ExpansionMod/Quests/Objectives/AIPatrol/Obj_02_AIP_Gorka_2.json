@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 2,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all 5 police imposters at the marked location",
+    "ObjectiveText": "Kill all the police imposters at the marked location",
     "TimeLimit": -1,
     "Active": 1,
     "AISpawn": {
@@ -35,7 +35,7 @@
                 8802.0
             ]
         ],
-        "Behaviour": 0,
+        "Behaviour": 1,
         "Formation": "RANDOM",
         "Loadout": "PoliceLoadout",
         "Faction": "West",

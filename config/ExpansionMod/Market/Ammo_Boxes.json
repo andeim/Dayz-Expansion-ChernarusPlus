@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "ammobox_22_50rnd",
-            "MaxPriceThreshold": 530,
-            "MinPriceThreshold": 270,
+            "MaxPriceThreshold": 330,
+            "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

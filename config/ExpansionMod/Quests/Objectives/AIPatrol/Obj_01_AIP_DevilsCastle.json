@@ -35,7 +35,7 @@
                 11380.7998046875
             ]
         ],
-        "Behaviour": 0,
+        "Behaviour": 1,
         "Formation": "RANDOM",
         "Loadout": "BanditLoadout",
         "Faction": "West",

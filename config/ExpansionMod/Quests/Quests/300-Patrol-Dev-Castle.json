@@ -1,22 +1,22 @@
 {
     "ConfigVersion": 22,
-    "ID": 201,
+    "ID": 300,
     "Type": 1,
-    "Title": "Clear out Zvir",
+    "Title": "Clear Patrol - Bandits",
     "Descriptions": [
-        "A bunch of hooligans are hanging out at the water spigot in Zvir, we need to take them out.",
-        "Clean up Zvir",
-        "Nice work! Hopefully thats the last of those fuckers, here is your payment."
+        "Some bandits have made camp up at Devils Castle and have been shooting up the nearby towns. They need to be dealt with.",
+        "Head up to Devils Castle and clear out the bandits. They are a small group but they are well armed and dangerous. Be careful.",
+        "Nice work, we could use more people like you. Here is your reward."
     ],
-    "ObjectiveText": "Kill all thugs and bandits at the marked location.",
+    "ObjectiveText": "Kill all units of the bandit patrol group at the marked location.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 1,
+    "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 1,
-    "ObjectSetFileName": "bandit2",
+    "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
@@ -44,13 +44,8 @@
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 6,
-            "ObjectiveType": 3
-        },
-        {
-            "ConfigVersion": 27,
-            "ID": 3,
-            "ObjectiveType": 8
+            "ID": 1,
+            "ObjectiveType": 7
         }
     ],
     "QuestColor": 0,

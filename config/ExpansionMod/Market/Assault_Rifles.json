@@ -401,18 +401,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Rev_M200_Black",
-            "MaxPriceThreshold": 3900,
-            "MinPriceThreshold": 2100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "Rev_M200_Black"
+            ]
         },
         {
             "ClassName": "Rev_R700",
@@ -570,8 +561,8 @@
         },
         {
             "ClassName": "Rev_M96",
-            "MaxPriceThreshold": 5500,
-            "MinPriceThreshold": 4000,
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 10000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -610,6 +601,32 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "VSS",
+            "MaxPriceThreshold": 9500,
+            "MinPriceThreshold": 7790,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Mag_VSS_10Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Vikhr",
+            "MaxPriceThreshold": 8950,
+            "MinPriceThreshold": 7790,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Mag_Vikhr_30Rnd"
+            ],
             "Variants": []
         }
     ]
