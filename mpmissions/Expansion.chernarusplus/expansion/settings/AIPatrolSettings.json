@@ -18,7 +18,7 @@
             "Faction": "West",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "AK101-MMG.json",
+            "LoadoutFile": "AK101-MMG",
             "Units": [],
             "NumberOfAI": -3,
             "Behaviour": "HALT_OR_ALTERNATE",
@@ -49,7 +49,7 @@
             "Faction": "East",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "VSS-MMG.json",
+            "LoadoutFile": "VSS-MMG",
             "Units": [],
             "NumberOfAI": -3,
             "Behaviour": "HALT_OR_ALTERNATE",
@@ -204,9 +204,9 @@
         {
             "Name": "Pogorevka",
             "Faction": "West",
-            "Formation": "",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "CZ550-Human.json",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "CZ550-Human",
             "Units": [],
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",
@@ -221,11 +221,11 @@
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
             "DamageReceivedMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 100.0,
+            "MinDistRadius": 75.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 15.0,
+            "MaxSpreadRadius": 20.0,
             "Chance": 1.0,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -233,68 +233,33 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4211.22265625,
-                    109.02338409423828,
-                    6382.064453125
+                    4085.17,
+                    361.495,
+                    5822.62
                 ],
                 [
-                    4151.66259765625,
-                    105.45065307617188,
-                    6080.29443359375
+                    4144.26,
+                    349.812,
+                    5963.15
                 ],
                 [
-                    4160.9716796875,
-                    105.41259765625,
-                    6035.10302734375
+                    4145.26,
+                    348.03,
+                    6097.91
                 ],
                 [
-                    4160.69921875,
-                    106.25148010253906,
-                    5906.830078125
-                ],
-                [
-                    4107.86279296875,
-                    108.93052673339844,
-                    5898.48291015625
-                ],
-                [
-                    4057.258056640625,
-                    114.17473602294922,
-                    5584.595703125
-                ],
-                [
-                    4084.56005859375,
-                    113.232421875,
-                    5494.5400390625
-                ],
-                [
-                    4079.30810546875,
-                    113.80116271972656,
-                    5435.953125
-                ],
-                [
-                    4081.73583984375,
-                    113.40250396728516,
-                    5385.576171875
-                ],
-                [
-                    4067.26611328125,
-                    109.78838348388672,
-                    4904.5087890625
-                ],
-                [
-                    4126.5048828125,
-                    107.37117767333984,
-                    4647.12890625
+                    4107.16,
+                    342.748,
+                    6250.74
                 ]
             ]
         },
         {
             "Name": "Pogorevka II",
             "Faction": "West",
-            "Formation": "",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "FAMAS-East.json",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "FAMAS-East",
             "Units": [],
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",
@@ -309,11 +274,11 @@
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
             "DamageReceivedMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 100.0,
+            "MinDistRadius": 75.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 10.0,
+            "MaxSpreadRadius": 15.0,
             "Chance": 1.0,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -321,39 +286,125 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4508.8603515625,
-                    109.34727478027344,
-                    6230.75146484375
+                    4537.9,
+                    293.354,
+                    6241.13
                 ],
                 [
-                    4448.49072265625,
-                    109.37779235839844,
-                    6025.892578125
+                    4581.2,
+                    294.496,
+                    6039.4
                 ],
                 [
-                    4546.90283203125,
-                    112.05754852294922,
-                    6126.59033203125
+                    4538.97,
+                    305.218,
+                    5850.99
                 ],
                 [
-                    4613.9755859375,
-                    110.16388702392578,
-                    6112.86962890625
+                    4504.09,
+                    340.936,
+                    5560.09
                 ],
                 [
-                    4563.82568359375,
-                    110.69610595703125,
-                    5797.4501953125
+                    4432.62,
+                    339.098,
+                    5468.56
+                ]
+            ]
+        },
+        {
+            "Name": "Vybor SW Airfield",
+            "Faction": "West",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "FAL-East",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": 75.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 10.0,
+            "MaxSpreadRadius": 15.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4439.6,
+                    338.819,
+                    9482.06
                 ],
                 [
-                    4551.8056640625,
-                    110.55508422851562,
-                    5652.876953125
+                    4403.28,
+                    339.301,
+                    9558.96
                 ],
                 [
-                    4312.20361328125,
-                    110.75215148925781,
-                    5366.94189453125
+                    4418.46,
+                    338.231,
+                    9637.94
+                ]
+            ]
+        },
+        {
+            "Name": "SW of Vybor Countryside",
+            "Faction": "West",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "SKS-East",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": 75.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 10.0,
+            "MaxSpreadRadius": 15.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3138.91,
+                    286.409,
+                    8863.8
+                ],
+                [
+                    3024.95,
+                    277.752,
+                    8543.75
+                ],
+                [
+                    3166.5,
+                    278.451,
+                    8420.66
                 ]
             ]
         },
@@ -362,7 +413,7 @@
             "Faction": "Raiders",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "PlayerFemaleSuitLoadout.json",
+            "LoadoutFile": "Scout-MMG",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -415,7 +466,7 @@
             "Faction": "East",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "SSG82-East.json",
+            "LoadoutFile": "SSG82-East",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -463,7 +514,7 @@
             "Faction": "East",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "SKS-MMG.json",
+            "LoadoutFile": "SKS-MMG",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -521,7 +572,7 @@
             "Faction": "Raiders",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "VSS-East.json",
+            "LoadoutFile": "VSS-East",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -669,7 +720,7 @@
             "Faction": "Civilian",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "GorkaLoadout.json",
+            "LoadoutFile": "GorkaLoadout",
             "Units": [],
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",
@@ -717,7 +768,7 @@
             "Faction": "West",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "EastLoadout.json",
+            "LoadoutFile": "EastLoadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -795,7 +846,7 @@
             "Faction": "East",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "VSS-MMG.json",
+            "LoadoutFile": "VSS-MMG",
             "Units": [],
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",
@@ -853,7 +904,7 @@
             "Faction": "East",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "ASVAL-MMG.json",
+            "LoadoutFile": "ASVAL-MMG",
             "Units": [],
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",
@@ -901,7 +952,7 @@
             "Faction": "East",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "VSS-Human.json",
+            "LoadoutFile": "VSS-Human",
             "Units": [],
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",
@@ -959,7 +1010,7 @@
             "Faction": "East",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "LoadoutFile": "M4A1-MMG.json",
+            "LoadoutFile": "M4A1-MMG",
             "Units": [],
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",

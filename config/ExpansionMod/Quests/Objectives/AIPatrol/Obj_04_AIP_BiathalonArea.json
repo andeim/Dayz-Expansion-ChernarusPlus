@@ -1,48 +1,63 @@
 {
     "ConfigVersion": 27,
-    "ID": 1,
+    "ID": 4,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all 4 units of the bandit patrol at the marked location",
+    "ObjectiveText": "Clean out the trails",
     "TimeLimit": -1,
     "Active": 1,
     "AISpawn": {
-        "NumberOfAI": 4,
+        "NumberOfAI": 5,
         "NPCName": "Quest Target",
         "Waypoints": [
             [
-                6914.7001953125,
-                403.0270080566406,
-                11381.7001953125
+                285.235,
+                442.496,
+                11089.9
             ],
             [
-                6931.27001953125,
-                399.8599853515625,
-                11456.7001953125
+                233.604,
+                454.381,
+                11137.3
             ],
             [
-                6891.919921875,
-                397.4549865722656,
-                11496.099609375
+                203.036,
+                456.069,
+                11138.3
             ],
             [
-                6850.8798828125,
-                399.1470031738281,
-                11468.099609375
+                214.878,
+                453.577,
+                11108.4
             ],
             [
-                6883.97998046875,
-                403.1919860839844,
-                11380.7998046875
+                128.714,
+                455.898,
+                11040.1
+            ],
+            [
+                110.61,
+                449.478,
+                10960.3
+            ],
+            [
+                168.45,
+                447.213,
+                10952.1
+            ],
+            [
+                215.63,
+                446.472,
+                11026.1
             ]
         ],
-        "Behaviour": 2,
-        "Formation": "RANDOM",
-        "Loadout": "BanditLoadout",
+        "Behaviour": 1,
+        "Formation": "WEDGE",
+        "Loadout": "AK101-Human",
         "Faction": "West",
         "Speed": 1.5,
         "ThreatSpeed": 3.0,
-        "MinAccuracy": 0.4,
-        "MaxAccuracy": 0.7,
+        "MinAccuracy": 0.4000000059604645,
+        "MaxAccuracy": 0.70,
         "CanBeLooted": 1,
         "UnlimitedReload": 1,
         "ThreatDistanceLimit": 200.0,
@@ -84,9 +99,9 @@
         "SniperProneDistanceThreshold": 300.0,
         "RespawnTime": 1.0,
         "DespawnTime": 1.0,
-        "MinDistanceRadius": 50.0,
-        "MaxDistanceRadius": 150.0,
-        "DespawnRadius": 880.0
+        "MinDistanceRadius": 10.0,
+        "MaxDistanceRadius": 300.0,
+        "DespawnRadius": 600.0
     },
     "MaxDistance": 300.0,
     "MinDistance": 0.0,

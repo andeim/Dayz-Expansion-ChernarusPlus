@@ -1,22 +1,22 @@
 {
     "ConfigVersion": 22,
-    "ID": 202,
+    "ID": 302,
     "Type": 1,
-    "Title": "Clear out Police camp at Gorka",
+    "Title": "Clear Police Imposter Patrol - Gorka",
     "Descriptions": [
-        "A bunch of hooligans are hanging out at Gorka dressed as police.",
-        "Clean up Gorka",
-        "Nice work! Hopefully thats the last of those fuckers, here is your payment."
+        "The Radio tower at Zenit is infested with bandits.  Go get 'em.",
+        "Go until you see the radio tower, keep you eyes sharp.",
+        "Nice work, we could use more people like you. Here is your reward."
     ],
-    "ObjectiveText": "Kill all thugs at the marked location",
+    "ObjectiveText": "Kill all units at the radio zenit building",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 1,
+    "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 1,
-    "ObjectSetFileName": "bandit2",
+    "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
@@ -44,13 +44,8 @@
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 5,
-            "ObjectiveType": 3
-        },
-        {
-            "ConfigVersion": 27,
-            "ID": 2,
-            "ObjectiveType": 8
+            "ID": 3,
+            "ObjectiveType": 7
         }
     ],
     "QuestColor": 0,

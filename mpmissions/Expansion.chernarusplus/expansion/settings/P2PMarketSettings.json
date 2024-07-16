@@ -185,7 +185,16 @@
                     "DisplayName": "Backpacks",
                     "IconPath": "set:dayz_inventory image:back",
                     "Included": [
-                        "Backpack_Base"
+                        "ChildBag_ColorBase",
+                        "DryBag_ColorBase",
+                        "TaloonBag_ColorBase",
+                        "SmershBag",
+                        "AssaultBag_ColorBase",
+                        "HuntingBag",
+                        "TortillaBag",
+                        "CoyoteBag_ColorBase",
+                        "MountainBag_ColorBase",
+                        "AliceBag_ColorBase"
                     ],
                     "Excluded": []
                 },
@@ -193,7 +202,8 @@
                     "DisplayName": "Belts",
                     "IconPath": "set:dayz_inventory image:hips",
                     "Included": [
-                        "Belt_Base"
+                        "CivilianBelt",
+                        "MilitaryBelt"
                     ],
                     "Excluded": []
                 },
@@ -211,7 +221,20 @@
                     "DisplayName": "Boots & Shoes",
                     "IconPath": "set:dayz_inventory image:feet",
                     "Included": [
-                        "Shoes_Base"
+                        "AthleticShoes_ColorBase",
+                        "JoggingShoes_ColorBase",
+                        "Sneakers_ColorBase",
+                        "Ballerinas_ColorBase",
+                        "DressShoes_ColorBase",
+                        "HikingBootsLow_ColorBase",
+                        "WorkingBoots_ColorBase",
+                        "HikingBoots_ColorBase",
+                        "CombatBoots_ColorBase",
+                        "JungleBoots_ColorBase",
+                        "Wellies_ColorBase",
+                        "TTSKOBoots",
+                        "MilitaryBoots_ColorBase",
+                        "NBCBootsBase"
                     ],
                     "Excluded": []
                 },
@@ -219,6 +242,8 @@
                     "DisplayName": "Caps",
                     "IconPath": "set:dayz_inventory image:headgear",
                     "Included": [
+                        "BaseballCap_CMMG_Pink",
+                        "BaseballCap_CMMG_Black",
                         "BaseballCap_ColorBase",
                         "PrisonerCap",
                         "PilotkaCap",
@@ -262,7 +287,14 @@
                     "DisplayName": "Eyewear",
                     "IconPath": "set:dayz_inventory image:eyewear",
                     "Included": [
-                        "Glasses_Base"
+                        "SportGlasses_ColorBase",
+                        "ThinFramesGlasses",
+                        "ThickFramesGlasses",
+                        "DesignerGlasses",
+                        "AviatorGlasses",
+                        "TacticalGoggles",
+                        "NVGHeadstrap",
+                        "EyePatch_Improvised"
                     ],
                     "Excluded": []
                 },
@@ -281,7 +313,11 @@
                     "DisplayName": "Gloves",
                     "IconPath": "set:dayz_inventory image:gloves",
                     "Included": [
-                        "Gloves_Base"
+                        "SurgicalGloves_ColorBase",
+                        "WorkingGloves_ColorBase",
+                        "TacticalGloves_ColorBase",
+                        "OMNOGloves_ColorBase",
+                        "NBCGloves_ColorBase"
                     ],
                     "Excluded": []
                 },
@@ -312,7 +348,15 @@
                     "DisplayName": "Masks",
                     "IconPath": "set:dayz_inventory image:mask",
                     "Included": [
-                        "Mask_Base"
+                        "SurgicalMask",
+                        "NioshFaceMask",
+                        "HockeyMask",
+                        "BalaclavaMask_ColorBase",
+                        "Balaclava3Holes_ColorBase",
+                        "WeldingMask",
+                        "GasMask",
+                        "GP5GasMask",
+                        "AirborneMask"
                     ],
                     "Excluded": []
                 },
@@ -320,7 +364,27 @@
                     "DisplayName": "Pants",
                     "IconPath": "set:dayz_inventory image:legs",
                     "Included": [
-                        "Pants_Base"
+                        "MedicalScrubsPants_ColorBase",
+                        "TrackSuitPants_ColorBase",
+                        "PrisonUniformPants",
+                        "Breeches_ColorBase",
+                        "SlacksPants_ColorBase",
+                        "CanvasPantsMidi_ColorBase",
+                        "CanvasPants_ColorBase",
+                        "JumpsuitPants_ColorBase",
+                        "PolicePants",
+                        "ParamedicPants_ColorBase",
+                        "FirefightersPants_ColorBase",
+                        "CargoPants_ColorBase",
+                        "ShortJeans_ColorBase",
+                        "Jeans_ColorBase",
+                        "TTSKOPants",
+                        "BDUPants",
+                        "USMCPants_ColorBase",
+                        "PolicePantsOrel",
+                        "HunterPants_ColorBase",
+                        "GorkaPants_ColorBase",
+                        "NBCPantsBase"
                     ],
                     "Excluded": []
                 },
@@ -356,7 +420,14 @@
                     "DisplayName": "Vests",
                     "IconPath": "set:dayz_inventory image:vest",
                     "Included": [
-                        "Vest_Base"
+                        "ReflexVest",
+                        "PoliceVest",
+                        "PressVest_ColorBase",
+                        "UKAssVest_ColorBase",
+                        "SmershVest",
+                        "HighCapacityVest_ColorBase",
+                        "PlateCarrierVest",
+                        "HuntingVest"
                     ],
                     "Excluded": []
                 }
@@ -449,7 +520,15 @@
                     "DisplayName": "Assault Rifles",
                     "IconPath": "set:dayz_inventory image:pistol",
                     "Included": [
-                        "RifleBoltFree_Base"
+                        "FAL_Base",
+                        "AKM_Base",
+                        "AK74_Base",
+                        "M4A1_Base",
+                        "M16A2_Base",
+                        "Famas_Base",
+                        "Aug_Base",
+                        "Expansion_M16_Base",
+                        "Expansion_G36_Base"
                     ],
                     "Excluded": []
                 },

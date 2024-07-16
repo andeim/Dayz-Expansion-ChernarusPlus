@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 22,
-    "ID": 202,
+    "ID": 203,
     "Type": 1,
-    "Title": "Clear out Police camp at Gorka",
+    "Title": "Go and clear out Krona castle",
     "Descriptions": [
-        "A bunch of hooligans are hanging out at Gorka dressed as police.",
-        "Clean up Gorka",
+        "A bunch of jabronies are tearing up Krona castle.",
+        "Clean up Krona",
         "Nice work! Hopefully thats the last of those fuckers, here is your payment."
     ],
-    "ObjectiveText": "Kill all thugs at the marked location",
+    "ObjectiveText": "Kill all jabronies at the marked location",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -44,12 +44,12 @@
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 5,
+            "ID": 7,
             "ObjectiveType": 3
         },
         {
             "ConfigVersion": 27,
-            "ID": 2,
+            "ID": 4,
             "ObjectiveType": 8
         }
     ],

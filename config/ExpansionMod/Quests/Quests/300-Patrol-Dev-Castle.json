@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 300,
     "Type": 1,
-    "Title": "Clear Patrol - Bandits",
+    "Title": "Clear Patrol - Devils Castle",
     "Descriptions": [
         "Some bandits have made camp up at Devils Castle and have been shooting up the nearby towns. They need to be dealt with.",
         "Head up to Devils Castle and clear out the bandits. They are a small group but they are well armed and dangerous. Be careful.",
@@ -56,7 +56,7 @@
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 1,
-    "SequentialObjectives": 0,
+    "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

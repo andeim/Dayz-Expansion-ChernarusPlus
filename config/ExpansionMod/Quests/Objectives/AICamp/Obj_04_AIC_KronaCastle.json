@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 27,
-    "ID": 2,
+    "ID": 4,
     "ObjectiveType": 8,
-    "ObjectiveText": "Kill all the police imposters at the marked location",
+    "ObjectiveText": "Kill the militia members",
     "TimeLimit": -1,
     "Active": 1,
     "InfectedDeletionRadius": 50.0,
@@ -12,14 +12,14 @@
             "NPCName": "Quest Target",
             "Waypoints": [
                 [
-                    9523.0,
-                    310.0,
-                    8941.0
+                    1464.27,
+                    298.108,
+                    9241.72
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PoliceLoadout",
+            "Loadout": "SKS-East",
             "Faction": "Shamans",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -75,20 +75,20 @@
             "NPCName": "Quest Target",
             "Waypoints": [
                 [
-                    9550.0,
-                    309.0,
-                    8924.0
+                    1413.58,
+                    301.37,
+                    9302.91
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PoliceLoadout",
+            "Loadout": "FAMAS-East",
             "Faction": "Shamans",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
             "MinAccuracy": 0.4000000059604645,
             "MaxAccuracy": 0.75,
-            "CanBeLooted": 1,
+            "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
@@ -138,20 +138,20 @@
             "NPCName": "Quest Target",
             "Waypoints": [
                 [
-                    9550.0,
-                    305.0,
-                    8893.0
+                    1419.6,
+                    308.338,
+                    9266.87
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PoliceLoadout",
+            "Loadout": "VSS-Human",
             "Faction": "Shamans",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
             "MinAccuracy": 0.4000000059604645,
             "MaxAccuracy": 0.75,
-            "CanBeLooted": 1,
+            "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
@@ -201,20 +201,20 @@
             "NPCName": "Quest Target",
             "Waypoints": [
                 [
-                    9539.7998046875,
-                    305.0,
-                    8868.400390625
+                    1385.94,
+                    314.533,
+                    9253.38
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PoliceLoadout",
+            "Loadout": "VSS-Human",
             "Faction": "Shamans",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
             "MinAccuracy": 0.4000000059604645,
             "MaxAccuracy": 0.75,
-            "CanBeLooted": 1,
+            "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
@@ -264,14 +264,14 @@
             "NPCName": "Quest Target",
             "Waypoints": [
                 [
-                    9518.0,
-                    303.0,
-                    8802.0
+                    1355.4,
+                    295.743,
+                    9251.31
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PoliceLoadout",
+            "Loadout": "ASVAL-Human",
             "Faction": "Shamans",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,

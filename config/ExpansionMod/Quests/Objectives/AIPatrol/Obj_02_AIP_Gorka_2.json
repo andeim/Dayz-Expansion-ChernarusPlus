@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 2,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all the police imposters at the marked location",
+    "ObjectiveText": "Kill all the police imposters patrolling around Gorka",
     "TimeLimit": -1,
     "Active": 1,
     "AISpawn": {
@@ -10,36 +10,41 @@
         "NPCName": "Quest Target",
         "Waypoints": [
             [
-                9523.0,
-                310.0,
-                8941.0
+                8121.84,
+                457.994,
+                9318.2
             ],
             [
-                9550.0,
-                309.0,
-                8924.0
+                9617.26,
+                297.61,
+                8818.91
             ],
             [
-                9550.0,
-                305.0,
-                8893.0
+                9566.63,
+                303.968,
+                8850.11
             ],
             [
-                9539.7998046875,
-                305.0,
-                8868.400390625
+                9529.28,
+                304.002,
+                8848.18
             ],
             [
-                9518.0,
-                303.0,
-                8802.0
+                9514.05,
+                303.26,
+                8796.76
+            ],
+            [
+                9551.59,
+                300.532,
+                8787.25
             ]
         ],
         "Behaviour": 1,
-        "Formation": "RANDOM",
+        "Formation": "WEDGE",
         "Loadout": "PoliceLoadout",
         "Faction": "West",
-        "Speed": 1.0,
+        "Speed": 1.5,
         "ThreatSpeed": 3.0,
         "MinAccuracy": 0.4000000059604645,
         "MaxAccuracy": 0.70,
@@ -84,9 +89,9 @@
         "SniperProneDistanceThreshold": 300.0,
         "RespawnTime": 1.0,
         "DespawnTime": 1.0,
-        "MinDistanceRadius": 1.0,
-        "MaxDistanceRadius": 250.0,
-        "DespawnRadius": 880.0
+        "MinDistanceRadius": 10.0,
+        "MaxDistanceRadius": 300.0,
+        "DespawnRadius": 600.0
     },
     "MaxDistance": 300.0,
     "MinDistance": 0.0,

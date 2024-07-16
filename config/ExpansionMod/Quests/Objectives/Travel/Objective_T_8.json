@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 8,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to the trail head",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        367.416,
+        424.042,
+        11034.2
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Get there",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

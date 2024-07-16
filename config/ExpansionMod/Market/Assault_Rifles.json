@@ -37,7 +37,7 @@
         },
         {
             "ClassName": "ak101",
-            "MaxPriceThreshold": 1290,
+            "MaxPriceThreshold": 10290,
             "MinPriceThreshold": 8790,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
@@ -383,8 +383,8 @@
         },
         {
             "ClassName": "Rev_HoneyBadger300BO_Black",
-            "MaxPriceThreshold": 10500,
-            "MinPriceThreshold": 12500,
+            "MaxPriceThreshold": 12500,
+            "MinPriceThreshold": 10500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -409,6 +409,17 @@
             "ClassName": "Rev_R700",
             "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 2400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SV98",
+            "MaxPriceThreshold": 5500,
+            "MinPriceThreshold": 4400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -560,17 +571,6 @@
             "Variants": []
         },
         {
-            "ClassName": "Rev_M96",
-            "MaxPriceThreshold": 12000,
-            "MinPriceThreshold": 10000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "JebsGuns_MDRX_Tan",
             "MaxPriceThreshold": 5500,
             "MinPriceThreshold": 4400,
@@ -601,19 +601,6 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "VSS",
-            "MaxPriceThreshold": 9500,
-            "MinPriceThreshold": 7790,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "Mag_VSS_10Rnd"
-            ],
             "Variants": []
         },
         {

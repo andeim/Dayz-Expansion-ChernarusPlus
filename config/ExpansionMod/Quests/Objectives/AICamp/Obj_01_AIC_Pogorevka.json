@@ -5,7 +5,7 @@
     "ObjectiveText": "Kill all 10 bandits at the marked location",
     "TimeLimit": -1,
     "Active": 1,
-    "InfectedDeletionRadius": 500.0,
+    "InfectedDeletionRadius": 100.0,
     "AISpawns": [
         {
             "NumberOfAI": 1,

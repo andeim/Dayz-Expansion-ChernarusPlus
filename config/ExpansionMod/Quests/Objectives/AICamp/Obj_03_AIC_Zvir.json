@@ -5,7 +5,7 @@
     "ObjectiveText": "Kill the militia members",
     "TimeLimit": -1,
     "Active": 1,
-    "InfectedDeletionRadius": 100.0,
+    "InfectedDeletionRadius": 50.0,
     "AISpawns": [
         {
             "NumberOfAI": 1,

@@ -81,6 +81,19 @@
                 "mag_expansion_awm_5rnd"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "Rev_M96",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Rev_Mag_M96_5rnd"
+            ],
+            "Variants": []
         }
     ]
 }

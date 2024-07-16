@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 27,
-    "ID": 1,
+    "ID": 3,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all 4 units of the bandit patrol at the marked location",
+    "ObjectiveText": "Clean out the radio tower yard",
     "TimeLimit": -1,
     "Active": 1,
     "AISpawn": {
@@ -10,39 +10,39 @@
         "NPCName": "Quest Target",
         "Waypoints": [
             [
-                6914.7001953125,
-                403.0270080566406,
-                11381.7001953125
+                8060.54,
+                458.862,
+                9320.52
             ],
             [
-                6931.27001953125,
-                399.8599853515625,
-                11456.7001953125
+                8061.1,
+                457.719,
+                9347.98
             ],
             [
-                6891.919921875,
-                397.4549865722656,
-                11496.099609375
+                8085.14,
+                455.423,
+                9369.19
             ],
             [
-                6850.8798828125,
-                399.1470031738281,
-                11468.099609375
+                8108.37,
+                456.088,
+                9351.37
             ],
             [
-                6883.97998046875,
-                403.1919860839844,
-                11380.7998046875
+                8121.84,
+                457.994,
+                9318.2
             ]
         ],
         "Behaviour": 2,
-        "Formation": "RANDOM",
-        "Loadout": "BanditLoadout",
+        "Formation": "WEDGE",
+        "Loadout": "AK101-Human",
         "Faction": "West",
         "Speed": 1.5,
         "ThreatSpeed": 3.0,
-        "MinAccuracy": 0.4,
-        "MaxAccuracy": 0.7,
+        "MinAccuracy": 0.4000000059604645,
+        "MaxAccuracy": 0.70,
         "CanBeLooted": 1,
         "UnlimitedReload": 1,
         "ThreatDistanceLimit": 200.0,
@@ -84,9 +84,9 @@
         "SniperProneDistanceThreshold": 300.0,
         "RespawnTime": 1.0,
         "DespawnTime": 1.0,
-        "MinDistanceRadius": 50.0,
-        "MaxDistanceRadius": 150.0,
-        "DespawnRadius": 880.0
+        "MinDistanceRadius": 10.0,
+        "MaxDistanceRadius": 300.0,
+        "DespawnRadius": 600.0
     },
     "MaxDistance": 300.0,
     "MinDistance": 0.0,

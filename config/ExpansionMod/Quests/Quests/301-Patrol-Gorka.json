@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 22,
-    "ID": 310,
+    "ID": 301,
     "Type": 1,
-    "Title": "Clear Police Imposters",
+    "Title": "Clear Police Imposter Patrol - Gorka",
     "Descriptions": [
         "Some police impersonators have settled at Gorka have been shooting up the nearby towns. They need to be dealt with.",
         "Head up to Gorka and clear the bastards out. They are a small group but they are well armed and dangerous. Be careful.",
@@ -61,7 +61,7 @@
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 1,
-    "SequentialObjectives": 0,
+    "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
