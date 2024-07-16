@@ -36,7 +36,7 @@
             "Variants": []
         },
         {
-            "ClassName": "ak101",
+            "ClassName": "AK101",
             "MaxPriceThreshold": 10290,
             "MinPriceThreshold": 8790,
             "SellPricePercent": -1.0,

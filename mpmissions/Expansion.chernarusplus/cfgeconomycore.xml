@@ -70,4 +70,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</ce>
 	<!-- end of rev guns -->
 	
+	<!-- snafu guns -->
+	<ce folder="db/snafu">
+		<file name="snafuspawnabletypes25percent.xml" type="spawnabletypes" />
+		<file name="SNAFU_types.xml" type="types" />
+	</ce>
+	<!-- end of snafu guns -->
+	
 </economycore>
