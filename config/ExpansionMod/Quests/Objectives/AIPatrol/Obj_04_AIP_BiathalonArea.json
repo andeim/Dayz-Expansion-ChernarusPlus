@@ -10,16 +10,6 @@
         "NPCName": "Quest Target",
         "Waypoints": [
             [
-                285.235,
-                442.496,
-                11089.9
-            ],
-            [
-                233.604,
-                454.381,
-                11137.3
-            ],
-            [
                 203.036,
                 456.069,
                 11138.3
@@ -48,19 +38,29 @@
                 215.63,
                 446.472,
                 11026.1
+            ],
+            [
+                285.235,
+                442.496,
+                11089.9
+            ],
+            [
+                233.604,
+                454.381,
+                11137.3
             ]
         ],
         "Behaviour": 1,
         "Formation": "WEDGE",
         "Loadout": "AK101-Human",
         "Faction": "West",
-        "Speed": 1.5,
+        "Speed": 1.8,
         "ThreatSpeed": 3.0,
         "MinAccuracy": 0.4000000059604645,
         "MaxAccuracy": 0.70,
         "CanBeLooted": 1,
         "UnlimitedReload": 1,
-        "ThreatDistanceLimit": 200.0,
+        "ThreatDistanceLimit": 150.0,
         "DamageMultiplier": 1.0,
         "DamageReceivedMultiplier": 1.2,
         "ClassNames": [
